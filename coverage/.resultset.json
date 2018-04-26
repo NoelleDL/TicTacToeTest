@@ -1,0 +1,33 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/noellelegrain/ProjectsFeb2018/Week10/TicTacToeTest/spec/player_x_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        2,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        null
+      ],
+      "/Users/noellelegrain/ProjectsFeb2018/Week10/TicTacToeTest/lib/player_x.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1524738010
+  }
+}
